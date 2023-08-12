@@ -27,8 +27,8 @@ h2{
     color:aqua;
 }
 footer img {
-    width: 40px;
-    height: 40px;
+    width: 50%;
+    height:50%;
 }
 footer {
     display: flex;
