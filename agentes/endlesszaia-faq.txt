@@ -1,0 +1,97 @@
+FAQ – MORAES MARQUES CENTRO VETERINÁRIO (VALINHOS/SP)
+Use este FAQ como fonte principal para responder dúvidas. Adapte ao contexto (nome do tutor e do pet), mantenha a resposta curta. Se a pergunta não estiver aqui, não invente: ofereça transferir para a equipe.
+
+SOBRE A CLÍNICA
+1. P: O que é a Moraes Marques?
+R: Um centro veterinário em Valinhos/SP que atende cães e gatos com atendimento humanizado e sem pressa: consultas, especialidades, cirurgias e exames.
+
+2. P: Vocês atendem quais animais?
+R: Cães e gatos.
+
+3. P: Onde fica a clínica?
+R: Av. Onze de Agosto, 136 – Vila Clayton, Valinhos/SP, CEP 13276-130.
+
+4. P: Qual o horário de funcionamento?
+R: {{HORARIO_FUNCIONAMENTO}}
+
+5. P: Qual o telefone/WhatsApp?
+R: {{TELEFONE_DA_CLINICA}}. Também estamos no Instagram @moraesmarquescv.
+
+6. P: Vocês têm site e Instagram?
+R: Sim! Site: www.moraesmarquesvet.com | Instagram: @moraesmarquescv
+
+7. P: O que é "atendimento humanizado e sem pressa"?
+R: A consulta tem tempo para ouvir você e examinar seu pet com calma, respeitando o bem-estar e o conforto dele.
+
+SERVIÇOS E ESPECIALIDADES
+8. P: Quais serviços vocês oferecem?
+R: Clínica Geral, Vacinação, Ortopedia, Medicina Felina (Cat Friendly), Fisioterapia, Oncologia, Cirurgias e Exames.
+
+9. P: Como funciona a consulta de Clínica Geral?
+R: É uma avaliação completa: check-up, sintomas, orientações e, se preciso, pedido de exames ou encaminhamento para especialista.
+
+10. P: Vocês vacinam?
+R: Sim, aplicamos e atualizamos o protocolo vacinal de cães e gatos. Traga a carteirinha de vacinação.
+
+11. P: O que a Ortopedia trata?
+R: Ossos e articulações: mancar, displasias, luxações, fraturas e dor ao se movimentar.
+
+12. P: Meu pet está mancando, qual consulta marco?
+R: Pode marcar Ortopedia direto ou começar pela Clínica Geral. Para gatos, indicamos a Medicina Felina.
+
+13. P: O que é a Medicina Felina?
+R: Atendimento exclusivo para gatos, com quem entende do comportamento felino, em ambiente Cat Friendly.
+
+14. P: O que é Cat Friendly?
+R: Uma abordagem que deixa a visita menos estressante para o gato: ambiente pensado para ele, com espaços para se esconder, escalar e descansar, e manejo gentil.
+
+15. P: Como levo meu gato à consulta?
+R: Na caixa de transporte fechada e coberta com uma toalha. Se der, deixe a caixa aberta em casa alguns dias antes para ele se acostumar.
+
+16. P: Para que serve a Fisioterapia?
+R: Reabilitação no pós-operatório, alívio de dor crônica, artrose e melhora da mobilidade de pets idosos.
+
+17. P: Vocês atendem Oncologia?
+R: Sim. Avaliamos e acompanhamos nódulos, tumores e tratamentos oncológicos de cães e gatos.
+
+18. P: Encontrei um caroço no meu pet, o que faço?
+R: Agende uma avaliação o quanto antes, na Clínica Geral ou direto na Oncologia. Não aperte nem tente furar o caroço.
+
+19. P: Vocês fazem cirurgias?
+R: Sim, inclusive complexas. Primeiro é feita uma consulta de avaliação cirúrgica, e a cirurgia é marcada pela equipe depois disso.
+
+20. P: Vocês fazem castração?
+R: Sim! A castração é agendada após uma consulta de avaliação pré-cirúrgica. (CONFIRMAR COM A CLÍNICA)
+
+21. P: Vocês fazem exames?
+R: Sim, exames laboratoriais e de imagem para ajudar no diagnóstico. (CONFIRMAR LISTA DE EXAMES)
+
+22. P: Preciso de jejum para exames?
+R: Depende do exame. Nossa equipe te orienta na confirmação do agendamento. {{ORIENTACAO_JEJUM}}
+
+AGENDAMENTO
+23. P: Como agendo uma consulta?
+R: Por aqui mesmo! Me diga o nome do pet, a espécie e o motivo, que eu vejo os horários disponíveis.
+
+24. P: Preciso de encaminhamento para especialista?
+R: Não é obrigatório para agendar. Às vezes o veterinário recomenda começar pela Clínica Geral.
+
+25. P: Como remarco ou cancelo?
+R: É só me pedir aqui no WhatsApp. Eu localizo seu agendamento pelo telefone e ajusto. Pedimos aviso com {{ANTECEDENCIA_CANCELAMENTO}} de antecedência.
+
+26. P: O que devo levar na consulta?
+R: Carteirinha de vacinação, exames anteriores e remédios que o pet usa. Cães na coleira com guia e gatos na caixa de transporte.
+
+27. P: Com quanto tempo de antecedência devo chegar?
+R: 10 minutos antes do horário marcado.
+
+VALORES E PAGAMENTO
+28. P: Quanto custa a consulta?
+R: {{TABELA_DE_VALORES}}. Sem tabela: "Os valores variam conforme o atendimento. Nossa equipe te passa certinho."
+
+29. P: Quais formas de pagamento vocês aceitam? Aceitam plano de saúde pet?
+R: {{FORMAS_DE_PAGAMENTO}}. (CONFIRMAR PLANOS ACEITOS – a clínica aparece na rede Petlove Saúde)
+
+EMERGÊNCIA
+30. P: Meu pet está passando mal agora, o que faço?
+R: Se ele estiver com falta de ar, convulsão, sangramento, intoxicação, trauma ou (gatos) sem fazer xixi, ligue agora para {{TELEFONE_DA_CLINICA}} ou venha direto à clínica. Fora do horário, procure {{HOSPITAL_24H_REFERENCIA}}.
